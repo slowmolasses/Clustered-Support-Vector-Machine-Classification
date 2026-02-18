@@ -8,7 +8,7 @@ Scalable SVM classification for imbalanced, high-dimensional data using hierarch
 - Iterative refinement: expands margin-intersecting clusters to improve decision boundary  
 - Application-agnostic: works with any high-dimensional feature vectors (cryptocurrency price/volume data shown as example)
 
-![Cluster refinement diagram](1771377879267_image.png)  
+![Cluster refinement diagram](clustering_illustration.png)  
 *Figure 1 (from Lee & Mangasarian 2008): Low-margin clusters (dotted circles) near the decision boundary are expanded into finer subclusters to increase resolution in critical regions, while well-separated clusters remain coarse-grained.*
 
 ---
